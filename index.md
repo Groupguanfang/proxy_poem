@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# 围城史诗
 
-You can use the [editor on GitHub](https://github.com/Groupguanfang/proxy_poem/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 目录
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+点击下面的链接进行跳转。你也可以点击左上角菜单按钮，快速进行章节选择。
 
-### Markdown
+[基本概念](https://www.notion.so/511074bde3f54c1db8892fec7404ffe2)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[翻墙协议](https://www.notion.so/4b712350775b47859c5378f05b470766)
 
-```markdown
-Syntax highlighted code block
+[软件下载](https://www.notion.so/4442a1cf22e34d28a8475e6c7456ebbf)
 
-# Header 1
-## Header 2
-### Header 3
+[分流软件进阶知识](https://www.notion.so/618cf1b37f39479398724b5ed2a2e472)
 
-- Bulleted
-- List
+[高级知识相关](https://www.notion.so/a86c5d78341e4c7ab25eae672bab9e9d)
 
-1. Numbered
-2. List
+## 介绍
 
-**Bold** and _Italic_ and `Code` text
+或许以后中国人终将全面开放网络环境，在此我替未来人，写好了历史。
 
-[Link](url) and ![Image](src)
-```
+这个翻墙维基会一直更新，我会一直维护下去，并且打算永流传，直到那个传说中的无墙之日。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> 墙就像一座围城，外面的人想进来，里面的人想出去。
+> 
 
-### Jekyll Themes
+自中国禁谷歌以来，越来越多网站被墙。外面的人为了翻进来，里面的人为了翻出去，大家都做了许许多多的努力。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Groupguanfang/proxy_poem/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+这些在灰色地带的东西不可能被历史铭记，但是翻过墙的人，必定会感慨那些年我们折腾的时光所涌现出来的很多开源免费技术，以及大家在开源社区相互吹的牛逼。
 
-### Support or Contact
+这一整部文档，目前已经放到Github，大家可以为其提供建议，修改和Fork文档。但是得要**注明原作出处**哦！
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 跋
+
+这一整部相关的“史书”似的玩意，实际上就算是是一部科普类的书吧。不指望大家学习，我只是做科普，仅此而已。
+
+---
+
+> 在开始之前，让我们默默向这段历史，致敬。
+>
